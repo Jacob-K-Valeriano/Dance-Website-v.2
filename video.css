@@ -10,6 +10,7 @@ video {
 
 html, body {
   height: 100%;
+
 }
 html {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -37,6 +38,7 @@ h1 {
   line-height: 1.2;
   font-size: 3vw;
   text-align: center;
+
 }
   span {
     display: block;
@@ -68,6 +70,7 @@ main {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-weight: bold;
 }
 
 
@@ -104,5 +107,10 @@ main {
   color: white;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-
-
+.aboutme {
+  font-family: sans-serif;
+  color: white;
+}
+.Register {
+  color: white;
+}
