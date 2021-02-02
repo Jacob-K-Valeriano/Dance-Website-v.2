@@ -1,0 +1,136 @@
+* {
+
+    font-family: 'Abel', sans-serif;
+    background: #E6E6E6;
+}
+
+
+#toplogo {
+    display: flex;
+    justify-content: center;
+
+}
+#codeupdesign {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+
+}
+
+.card {
+    border: none;
+}
+
+.heading1 {
+    display: flex;
+    justify-content: center;
+    height: 64px;
+
+}
+
+.heading2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.dot1 {
+    background-color: #E6563B;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+
+
+
+}
+.dot2 {
+    background-color: #EB9D3A;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+.dot3 {
+    background-color: #7CB06C;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+.dot4 {
+    background-color: #00ABA9;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 18px;
+}
+
+.design {
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background-color: #E6563B;
+    display: inline-block;
+}
+.develop {
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: #DEA03D;
+    display: inline-block;
+    border: 10px solid white;
+
+}
+.support {
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: #7CB06C;
+    display: inline-block;
+}
+.host {
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: #00ABA9;
+    display: inline-block;
+}
+
+#midgrid {
+    display: inline-block;
+    justify-content: space-around;
+
+}
+
+
+#selectedwork {
+    display: flex;
+    justify-content: center;
+}
+
+
